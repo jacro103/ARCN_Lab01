@@ -4,8 +4,8 @@ public class OrderProcessor {
 
     private Database database;
 
-    public OrderProcessor() {
-        this.database = new MySQLDatabase();
+    public OrderProcessor(Database database) {
+        this.database = database;
     }
 
     public void processOrder() {

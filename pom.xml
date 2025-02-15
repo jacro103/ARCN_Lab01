@@ -24,5 +24,20 @@
             <artifactId>junit-jupiter-engine</artifactId>
             <version>5.7.1</version>
         </dependency>
+        <!-- Dependencia para Mockito -->
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-core</artifactId>
+            <version>3.11.2</version>
+            <scope>test</scope>
+        </dependency>
+
+        <!-- Dependencia para JUnit y Mockito (integración) -->
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-junit-jupiter</artifactId>
+            <version>3.11.2</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 </project>

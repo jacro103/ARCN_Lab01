@@ -1,12 +1,22 @@
 /workspaces/ARCN_Lab01/src/main/java/com/example/solid/App.java
+<<<<<<< HEAD
 /workspaces/ARCN_Lab01/src/main/java/com/example/solid/dip/GoodExample/Database.java
 /workspaces/ARCN_Lab01/src/main/java/com/example/solid/dip/GoodExample/MySQLDatabase.java
 /workspaces/ARCN_Lab01/src/main/java/com/example/solid/dip/GoodExample/OrderProcessor.java
+=======
+>>>>>>> a9adf6777bfb7d03f41ae421d003afd7a5630ec0
 /workspaces/ARCN_Lab01/src/main/java/com/example/solid/dip/MySQLDatabase.java
 /workspaces/ARCN_Lab01/src/main/java/com/example/solid/isp/GoodExample/Developer.java
 /workspaces/ARCN_Lab01/src/main/java/com/example/solid/isp/GoodExample/Eatable.java
 /workspaces/ARCN_Lab01/src/main/java/com/example/solid/isp/GoodExample/Workable.java
 /workspaces/ARCN_Lab01/src/main/java/com/example/solid/isp/Worker.java
 /workspaces/ARCN_Lab01/src/main/java/com/example/solid/lsp/Car.java
+<<<<<<< HEAD
 /workspaces/ARCN_Lab01/src/main/java/com/example/solid/ocp/DiscountCalculator.java
+=======
+/workspaces/ARCN_Lab01/src/main/java/com/example/solid/lsp/interfaces/drive.java
+/workspaces/ARCN_Lab01/src/main/java/com/example/solid/lsp/interfaces/refuel.java
+/workspaces/ARCN_Lab01/src/main/java/com/example/solid/ocp/DiscountCalculator.java
+/workspaces/ARCN_Lab01/src/main/java/com/example/solid/ocp/interfaces/DiscountStrategy.java
+>>>>>>> a9adf6777bfb7d03f41ae421d003afd7a5630ec0
 /workspaces/ARCN_Lab01/src/main/java/com/example/solid/srp/Invoice.java

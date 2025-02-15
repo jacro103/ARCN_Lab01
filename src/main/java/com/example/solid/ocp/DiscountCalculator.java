@@ -1,3 +1,5 @@
+package com.example.solid.ocp;
+
 public class DiscountCalculator {
     public double calculateDiscount(String customerType, double price) {
         if (customerType.equals("Regular")) {

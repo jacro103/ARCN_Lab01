@@ -5,5 +5,13 @@
         "version": "17"
       }
     },
-    "postCreateCommand": "sudo apt update && sudo apt install -y maven && mvn clean install"
+    "postCreateCommand": "sudo apt update && sudo apt install -y maven && mvn clean install",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "rajkundu.junit-jar-downloader",
+                "vscjava.vscode-java-pack"
+            ]
+        }
+    }
   }

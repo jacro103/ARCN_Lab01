@@ -1,3 +1,5 @@
+package com.example.solid.dip;
+
 public class MySQLDatabase {
     public void saveOrder() {
         System.out.println("Guardando pedido en MySQL...");
